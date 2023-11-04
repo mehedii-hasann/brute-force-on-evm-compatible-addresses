@@ -13,3 +13,4 @@ for(let i =0;i<lines.length;i++)
 {
     adrs[lines[i]]= 1;
 }
+console.log(adrs.length)
