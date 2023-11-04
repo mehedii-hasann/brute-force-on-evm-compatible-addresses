@@ -13,4 +13,3 @@ for(let i =0;i<lines.length;i++)
 {
     adrs[lines[i]]= 1;
 }
-console.log(adrs['0x63a9975ba31b0b9626b34300f7f627147df1f526'])
